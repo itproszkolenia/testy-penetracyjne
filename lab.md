@@ -1,11 +1,11 @@
-TESTY PENETRACYJNE - LAB
+Testy penetracyjne: atakowanie i ochrona systemów informatycznych - LAB
 ===
 ###### tags: `compendium` `pentest` 
 
-![](https://i.imgur.com/EFAIQpZ.png? =300x300)
+(https://i.imgur.com/EFAIQpZ.png? =300x300)
 
 :::info
-Copyright (c) 2017, Marcin Ziemczyk - Compendium Centrum Edukacyjne Sp. z o.o.
+Copyright (c) 2019, Marcin Ziemczyk, Adam Jakubiec - Compendium Centrum Edukacyjne Sp. z o.o.
 :::
 # FOOTPRINTING I REKONESANS
 
